@@ -1,0 +1,7 @@
+Archive of Solr's old clients/ruby directory, including the solr-ruby library and Flare, a Rails application plugin.
+
+There is no future work planned for these codebases at this time.  
+
+For the latest Ruby Solr library, use RSolr - https://github.com/mwmitchell/rsolr
+
+For the latest Rails application plugin, use Blacklight - http://projectblacklight.org
